@@ -192,8 +192,8 @@ TypeScript project exploring rich, interactive UI patterns.
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/Baxrom0311/Baxrom0311/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/Baxrom0311/Baxrom0311/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
