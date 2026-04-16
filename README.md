@@ -6,7 +6,7 @@
 <h3>🚀 Full-Stack Developer · IoT Engineer · AI Enthusiast</h3>
 
 <p>
-  <a href="mailto:bahromreyimberganov0311@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bahromreyimberganov0311@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Baxrom0311">
@@ -203,8 +203,11 @@ TypeScript project exploring rich, interactive UI patterns.
 
 <div align="center">
 
-<a href="mailto:bahromreyimberganov0311@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bahromreyimberganov0311@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-bahromreyimberganov0311@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="mailto:bahromreyimberganov0311@gmail.com">
+  <img src="https://img.shields.io/badge/mailto-D14836?style=flat-square&logo=minutemailer&logoColor=white" />
 </a>
 
 </div>
