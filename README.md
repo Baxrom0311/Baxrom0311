@@ -3,7 +3,9 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salom%2C%20men%20Bakhrom!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
 
-<h3>🚀 Full-Stack Developer · IoT Engineer · AI Enthusiast</h3>
+<a href="https://github.com/Baxrom0311">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%9A%80;IoT+%26+Embedded+Engineer+%F0%9F%8C%B1;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+at+%40uni-nav+%F0%9F%A7%AD;From+Uzbekistan+with+code+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bahromreyimberganov0311@gmail.com" target="_blank">
@@ -26,6 +28,10 @@
 
 ## 👋 About Me / Men haqimda
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```yaml
 name: Bakhrom
 role: Full-Stack & IoT Developer
@@ -39,6 +45,16 @@ focus:
 learning: ["Computer Vision", "System Design", "DevOps"]
 motto: "Ship real things that solve real problems."
 ```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -188,12 +204,42 @@ TypeScript project exploring rich, interactive UI patterns.
 
 ---
 
+## 📈 Activity Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baxrom0311&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Baxrom0311&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baxrom0311&theme=tokyonight&utcOffset=5" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baxrom0311&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baxrom0311&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Baxrom0311&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/Baxrom0311/Baxrom0311/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://raw.githubusercontent.com/Baxrom0311/Baxrom0311/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+## 🤖 Agentic AI Workflow
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nagendhra-web/Nagendhra-web/main/agent-train.svg" width="95%" alt="Agentic AI Station" />
+
+<sub>Query → Reason → Plan → Execute → Remember → Guard → Output</sub>
 
 </div>
 
