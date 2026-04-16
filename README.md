@@ -39,11 +39,6 @@ focus:
 learning: ["Computer Vision", "System Design", "DevOps"]
 motto: "Ship real things that solve real problems."
 ```
-
-**UZ:** Men O‘zbekistondan bo‘lgan dasturchiman. Asosiy yo‘nalishim — bir necha platformada ishlovchi **navigatsiya tizimlari**, **IoT** qurilmalari va **AI** yordamida yaratilgan real loyihalar.
-
-**EN:** I'm a developer from Uzbekistan. I focus on **multi-platform navigation systems**, **IoT** projects and **AI-powered** applications — building things that ship and get used.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -208,13 +203,8 @@ TypeScript project exploring rich, interactive UI patterns.
 
 <div align="center">
 
-**UZ:** Hamkorlik, loyiha yoki savollar bo‘yicha men bilan bog‘laning.
-**EN:** Open to collaboration, freelance work, and interesting problems.
-
 <a href="mailto:bahromreyimberganov0311@gmail.com">
   <img src="https://img.shields.io/badge/-bahromreyimberganov0311@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
-<sub>⭐ Agar loyihalarim yoqsa, star qo‘ying — bu juda ilhomlantiradi!</sub>
 
 </div>
