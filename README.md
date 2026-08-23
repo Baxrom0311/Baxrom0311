@@ -24,39 +24,6 @@
 
 </div>
 
----
-
-## 👋 About Me / Men haqimda
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```yaml
-name: Bakhrom
-role: Full-Stack & IoT Developer
-location: Uzbekistan 🇺🇿
-organization: "@uni-nav — Binolarda navigatsiya tizimi"
-focus:
-  - Cross-platform navigation systems (Web · Android · Desktop Kiosk)
-  - IoT & embedded systems (Smart Greenhouse)
-  - AI-powered applications & tooling
-  - Interactive web experiences
-learning: ["Computer Vision", "System Design", "DevOps"]
-motto: "Ship real things that solve real problems."
-```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding" />
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -109,83 +76,6 @@ motto: "Ship real things that solve real problems."
 </table>
 
 </div>
-
----
-
-## 🎯 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 [uni-nav](https://github.com/uni-nav)
-**Binolarda navigatsiya tizimi**
-
-Multi-platform campus navigation built as an organization:
-- 🖥️ **desktop-kiosk** — TypeScript kiosk app
-- 🤖 **android_navigation** — Kotlin mobile client
-- ⚙️ **backend** — Python API & services
-- 🗺️ **campus-navigator** — web navigator
-
-> `TypeScript` · `Python` · `Kotlin`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 [ghouse_iot](https://github.com/Baxrom0311/ghouse_iot)
-**Smart Issiqxona (Smart Greenhouse)**
-
-IoT system for automated greenhouse monitoring and control — sensors, microcontrollers, real-time data.
-
-> `C++` · `IoT` · `Embedded`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ [quicktap](https://github.com/Baxrom0311/quicktap)
-**Reaction Time Game**
-
-Web-based reaction trainer with random-delay tap targets, precise timing, and attempt history.
-
-> `TypeScript` · `React`
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ [picture_analist](https://github.com/Baxrom0311/picture_analist)
-**Image Analysis Tool**
-
-Python-based image analysis project — computer vision pipeline for classification and insights.
-
-> `Python` · `CV` · `AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 [avtomaktab](https://github.com/Baxrom0311/avtomaktab)
-**Auto-school Platform v1.0.0**
-
-Web platform for driving school management — first production release.
-
-> `JavaScript` · `Web`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [artful-insights](https://github.com/Baxrom0311/artful-insights)
-**Creative Web Experience**
-
-TypeScript project exploring rich, interactive UI patterns.
-
-> `TypeScript` · `UI/UX`
-
-</td>
-</tr>
-</table>
 
 ---
 
