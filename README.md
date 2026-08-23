@@ -108,18 +108,6 @@
 
 ---
 
-## 🤖 Agentic AI Workflow
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nagendhra-web/Nagendhra-web/main/agent-train.svg" width="95%" alt="Agentic AI Station" />
-
-<sub>Query → Reason → Plan → Execute → Remember → Guard → Output</sub>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
